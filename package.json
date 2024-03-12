@@ -13,6 +13,8 @@
     "vite": "^5.1.4"
   },
   "dependencies": {
+    "ajax": "^0.0.4",
+    "prettier": "^3.2.5",
     "rxjs": "^7.8.1"
   }
 }
